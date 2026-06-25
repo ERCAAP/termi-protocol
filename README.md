@@ -112,6 +112,7 @@ Your code stays on your machine. This repo stays public, simple and safe: produc
 ## Download
 
 <div align="center">
+  <img src="assets/app-icon.png" alt="Termi Protocol app icon" width="64" style="border-radius: 12px; margin-bottom: 8px;">
   <p><strong>Same beautiful workspace on macOS and Windows.</strong></p>
 </div>
 
