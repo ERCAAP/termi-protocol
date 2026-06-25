@@ -25,3 +25,6 @@ assignees: ""
 ## What would make this valuable?
 
 
+## Public Safety Check
+
+Do not include private source code, API keys, tokens, credentials, customer data or internal prompts.

@@ -25,3 +25,6 @@ assignees: ""
 ## Suggested behavior
 
 
+## Public Safety Check
+
+Do not include private source code, API keys, tokens, credentials, customer data or internal prompts.

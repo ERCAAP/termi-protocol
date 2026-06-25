@@ -29,5 +29,4 @@ assignees: ""
 
 ## Screenshots Or Logs
 
-Remove all secrets, API keys, tokens and private source code before posting.
-
+Remove all secrets, API keys, tokens, private source code, customer data and internal prompts before posting.
