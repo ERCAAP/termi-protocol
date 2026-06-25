@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <a href="https://termiprotocol.com/download"><img alt="Download for macOS, Windows and Linux" src="https://img.shields.io/badge/Download-macOS%20%7C%20Windows%20%7C%20Linux-22c55e?style=for-the-badge"></a>
+    <a href="https://termiprotocol.com/download"><img alt="Download for macOS and Windows" src="https://img.shields.io/badge/Download-macOS%20%7C%20Windows-22c55e?style=for-the-badge"></a>
     <a href="https://termiprotocol.com"><img alt="Visit website" src="https://img.shields.io/badge/Website-termiprotocol.com-f59e0b?style=for-the-badge"></a>
     <a href="https://termiprotocol.com/roadmap"><img alt="View roadmap" src="https://img.shields.io/badge/Roadmap-Nine%20Protocols-38bdf8?style=for-the-badge"></a>
   </p>
@@ -112,28 +112,22 @@ Your code stays on your machine. This repo stays public, simple and safe: produc
 ## Download
 
 <div align="center">
-  <p><strong>Same beautiful workspace on macOS, Windows and Linux.</strong></p>
+  <p><strong>Same beautiful workspace on macOS and Windows.</strong></p>
 </div>
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <img src="assets/screenshots/desk-fullscreen.png" alt="Fullscreen command center view" width="260">
-      <h3>macOS</h3>
+      <h3> macOS</h3>
       <p>Native desktop app with full 3D room + Command Center.</p>
       <p><a href="https://termiprotocol.com/download"><strong>Download for macOS</strong></a></p>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <img src="assets/screenshots/desk-open.png" alt="Desk and panels open" width="260">
-      <h3>Windows</h3>
+      <h3>🪟 Windows</h3>
       <p>Installer-focused workflow for AI agents and terminal control.</p>
       <p><a href="https://termiprotocol.com/download"><strong>Download for Windows</strong></a></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="assets/screenshots/desk-tasks.png" alt="Task board and agent panels" width="260">
-      <h3>Linux</h3>
-      <p>Linux-friendly terminal agent workflows.</p>
-      <p><a href="https://termiprotocol.com/download"><strong>Download for Linux</strong></a></p>
     </td>
   </tr>
 </table>
@@ -238,12 +232,12 @@ This public repository never ships private source code, but the product language
 | Area | Public technology names | Public product role |
 | --- | --- | --- |
 | 3D interface | Three.js, GSAP | Real-time room, agent activity, motion and visual feedback for terminal events |
-| Desktop app | Electron, Electron Builder, Electron Updater | Cross-platform desktop distribution for macOS, Windows and Linux workflows |
+| Desktop app | Electron, Electron Builder, Electron Updater | Desktop distribution for macOS and Windows |
 | Terminal UI | xterm.js | Embedded terminal experience for agent sessions and command review |
 | Editor surface | Monaco Editor | Familiar code and text viewing surfaces for developer workflows |
 | Backend and realtime | Supabase, Express, WebSocket, node-pty | Product-level auth, realtime state, terminal process orchestration and app communication |
 | Language and tooling | TypeScript, Vite, Vitest, Playwright | Modern development stack, testing and browser-level verification |
-| Platforms | macOS app settings, Windows installer assets, Linux-friendly workflows | Platform-specific app setup, update and installation experience |
+| Platforms | macOS app settings, Windows installer assets | Platform-specific app setup and installation experience |
 
 ## Feature Details
 
@@ -311,7 +305,7 @@ Full roadmap: **https://termiprotocol.com/roadmap**
 | Link | Purpose |
 | --- | --- |
 | https://termiprotocol.com | Product website |
-| https://termiprotocol.com/download | macOS, Windows and Linux downloads |
+| https://termiprotocol.com/download | macOS and Windows downloads |
 | https://termiprotocol.com/roadmap | Protocol roadmap |
 | [SECURITY.md](SECURITY.md) | Security reporting policy |
 
@@ -321,7 +315,7 @@ Please use GitHub Issues for public bug reports, feature requests, roadmap feedb
 
 Good public issues:
 
-- macOS, Windows or Linux installation problems
+- macOS and Windows installation problems
 - agent CLI compatibility requests
 - feature ideas for the task board, terminal view, 3D room or mini-game systems
 - roadmap feedback
