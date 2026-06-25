@@ -37,3 +37,7 @@ uploads/
 screenshots/
 crash-dumps/
 
+# Explicitly allow curated marketing visuals for the public landing + GitHub Pages
+!assets/screenshots/
+!assets/demos/
+
