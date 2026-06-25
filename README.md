@@ -33,10 +33,9 @@
 </div>
 
 <div align="center" style="margin: -8px 0 16px;">
-  <a href="https://ercaap.github.io/termi-protocol" 
-     style="font-size:13px; background:#111; padding:6px 14px; border-radius:999px; border:1px solid #27272a; color:#a3e635; text-decoration:none;">
-    View the live GitHub Pages site →
-  </a>
+  <span style="font-size:13px; background:#111; padding:6px 14px; border-radius:999px; border:1px solid #27272a; color:#a3e635;">
+    GitHub Pages landing page included (enable Pages on main after push)
+  </span>
 </div>
 
 ---
