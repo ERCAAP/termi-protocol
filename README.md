@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://termiprotocol.com">
-    <img src="assets/termi-logo.png" alt="Termi Protocol logo" width="132" height="132">
+    <img src="assets/app-icon.png" alt="Termi Protocol app icon" width="132" height="132">
   </a>
 
   <h1>Termi Protocol</h1>
