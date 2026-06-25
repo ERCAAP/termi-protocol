@@ -1,0 +1,39 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.mobileprovision
+*.cer
+*.crt
+*.token
+secrets/
+
+# Dependency and build output
+node_modules/
+dist/
+build/
+out/
+.next/
+.vite/
+coverage/
+
+# Local app and OS files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# IDE/editor state
+.idea/
+.vscode/
+
+# Do not publish local Termi workspace state here
+hive/
+uploads/
+screenshots/
+crash-dumps/
+
