@@ -32,7 +32,7 @@ GitHub topics help organic discovery. Use the most relevant allowed topics:
 ## Publish Checklist
 
 - Confirm this repo only contains public marketing/docs files.
-- Confirm `assets/termi-logo.png` is the only product asset needed for the GitHub README.
+- Confirm `assets/` contains only the logo + curated marketing screenshots and short demo clips (no source, no secrets).
 - Confirm no `.env`, token, key, private source, payment secret or build artifact is present.
 - Confirm no source code from the private app has been copied into this repo.
 - Keep the repository public.

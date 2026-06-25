@@ -1,0 +1,2 @@
+# Prevent GitHub Pages from processing with Jekyll
+# Required for clean static hosting of index.html + video/image assets

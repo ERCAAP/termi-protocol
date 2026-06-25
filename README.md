@@ -28,9 +28,20 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="assets/screenshots/poster-hero.png" alt="Termi Protocol — Live 3D command center for AI agents" width="100%">
+</div>
+
+<div align="center" style="margin: -8px 0 16px;">
+  <a href="https://ercaap.github.io/termi-protocol" 
+     style="font-size:13px; background:#111; padding:6px 14px; border-radius:999px; border:1px solid #27272a; color:#a3e635; text-decoration:none;">
+    View the live GitHub Pages site →
+  </a>
+</div>
+
 ---
 
-> This public repository is for product discovery, roadmap feedback, issue tracking and community visibility. It does not contain private application source code, internal prompts, customer data, secrets, build artifacts, API keys or deployment files.
+> This public repository is for product discovery, roadmap feedback, issue tracking and community visibility. It does not contain private application source code, internal prompts, customer data, secrets, build artifacts, API keys or deployment files. Marketing screenshots and short demo videos are included for visual reference only.
 
 ## The Idea
 
@@ -65,27 +76,86 @@ Your code stays on your machine. This repo stays public, simple and safe: produc
   </tr>
 </table>
 
-## Download
+## In Action
+
+<div align="center">
+  <p><strong>Real workflows. Real time. Real presence.</strong></p>
+</div>
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center" valign="top">
+      <video src="assets/demos/code.mp4" width="320" controls playsinline></video>
+      <p><strong>Code</strong><br>Agent writes, edits and runs in the workspace</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <video src="assets/demos/team.mp4" width="320" controls playsinline></video>
+      <p><strong>Team</strong><br>Multiple agents collaborating live</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <video src="assets/demos/control.mp4" width="320" controls playsinline></video>
+      <p><strong>Control</strong><br>Direct interaction and supervision</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <video src="assets/demos/brain.mp4" width="320" controls playsinline></video>
+      <p><strong>Brain</strong><br>Agent memory, skills and thinking visible</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <p>Full cinematic overview: <a href="https://termiprotocol.com">termiprotocol.com</a></p>
+</div>
+
+## Download
+
+<div align="center">
+  <p><strong>Same beautiful workspace on macOS, Windows and Linux.</strong></p>
+</div>
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="assets/screenshots/desk-fullscreen.png" alt="Fullscreen command center view" width="260">
       <h3>macOS</h3>
-      <p>Desktop app for local AI coding workflows.</p>
+      <p>Native desktop app with full 3D room + Command Center.</p>
       <p><a href="https://termiprotocol.com/download"><strong>Download for macOS</strong></a></p>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
+      <img src="assets/screenshots/desk-open.png" alt="Desk and panels open" width="260">
       <h3>Windows</h3>
       <p>Installer-focused workflow for AI agents and terminal control.</p>
       <p><a href="https://termiprotocol.com/download"><strong>Download for Windows</strong></a></p>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
+      <img src="assets/screenshots/desk-tasks.png" alt="Task board and agent panels" width="260">
       <h3>Linux</h3>
       <p>Linux-friendly terminal agent workflows.</p>
       <p><a href="https://termiprotocol.com/download"><strong>Download for Linux</strong></a></p>
     </td>
   </tr>
 </table>
+
+<div align="center" style="margin: 2em 0;">
+  <p><strong>Edit your room freely — no agents required.</strong></p>
+  <img src="assets/screenshots/hand-room-edit.png" alt="Hand editing the room directly" width="72%">
+  <p><em>Drag, place, customize furniture, posters and toys with your own hands.</em></p>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/create-settled.png" alt="Create an agent and watch it settle in" width="280">
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/poster-pet.png" alt="Pet companion in the workspace" width="280">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## What You Can Do
 
@@ -131,6 +201,18 @@ Your code stays on your machine. This repo stays public, simple and safe: produc
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <h3>Command Center</h3>
+  <p>Tasks, terminal, memory, checkpoints and status — everything in one calm view.</p>
+  <table>
+    <tr>
+      <td align="center"><img src="assets/screenshots/desk-landing.png" alt="Main workspace landing view" width="240"></td>
+      <td align="center"><img src="assets/screenshots/desk-terminal.png" alt="Terminal and live output" width="240"></td>
+      <td align="center"><img src="assets/screenshots/desk-editor.png" alt="Editor surface inside the desk" width="240"></td>
+    </tr>
+  </table>
+</div>
 
 ## Agent And CLI Ecosystem
 
@@ -219,6 +301,10 @@ Termi Protocol ships in chapters called protocols. Milano is live today, with fu
 </table>
 
 Full roadmap: **https://termiprotocol.com/roadmap**
+
+<div align="center">
+  <img src="assets/screenshots/poster-team.png" alt="Multi-agent collaboration in Termi Protocol" width="82%">
+</div>
 
 ## Resources
 
