@@ -10,8 +10,6 @@ Tiny, representative snippets for people exploring **Termi Protocol**.
 | --- | --- | --- |
 | [`python/`](python/) | Python | Minimal welcome banner |
 | [`typescript/`](typescript/) | TypeScript | Typed config + sample agents |
-| [`backend/`](backend/) | TypeScript / Node | Tiny redirect-to-site server |
-| [`database/`](database/) | SQL | Illustrative agents / tasks schema |
 | [`threejs/`](threejs/) | Three.js / HTML | Spinning low-poly cube demo |
 | [`electron/`](electron/) | Electron | Desktop shell that opens the site |
 | [`react-native/`](react-native/) | React Native / TypeScript | Mobile button linking to the site |
