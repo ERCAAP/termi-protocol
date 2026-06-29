@@ -1,0 +1,11 @@
+{
+  "name": "termi-protocol-mobile-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Representative React Native snippet. Full app: https://termiprotocol.com",
+  "homepage": "https://termiprotocol.com",
+  "dependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}

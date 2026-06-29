@@ -240,6 +240,14 @@ This public repository never ships private source code, but the product language
 | Language and tooling | TypeScript, Vite, Vitest, Playwright | Modern development stack, testing and browser-level verification |
 | Platforms | macOS app settings, Windows installer assets | Platform-specific app setup and installation experience |
 
+## Code Examples
+
+Tiny, representative snippets live in [`examples/`](examples/): Python, TypeScript, a Node backend stub, SQL, a Three.js scene, an Electron shell and a React Native screen. They are illustrative only (no product source) and every one points back to the app.
+
+<div align="center">
+  <a href="https://termiprotocol.com/download"><img alt="Download Termi Protocol" src="https://img.shields.io/badge/Download%20the%20app-termiprotocol.com-22c55e?style=for-the-badge"></a>
+</div>
+
 ## Feature Details
 
 ### Agent Task Board

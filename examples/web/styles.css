@@ -1,0 +1,38 @@
+/* Termi Protocol - representative styles (illustrative only). */
+/* Full product: https://termiprotocol.com */
+:root {
+  --bg: #0a0a0a;
+  --fg: #fafafa;
+  --accent: #22c55e;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  overflow: hidden;
+}
+
+#app {
+  position: fixed;
+  inset: 0;
+}
+
+.cta {
+  position: fixed;
+  left: 50%;
+  bottom: 28px;
+  transform: translateX(-50%);
+  background: var(--accent);
+  color: var(--bg);
+  font-weight: 700;
+  padding: 12px 22px;
+  border-radius: 999px;
+  text-decoration: none;
+  z-index: 10;
+}
