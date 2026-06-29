@@ -1,0 +1,11 @@
+# --- GitHub language statistics tuning ---
+# Count the example snippets. Files under examples/ are otherwise treated as
+# documentation by GitHub Linguist and skipped from the language bar.
+examples/** linguist-documentation=false
+examples/** linguist-vendored=false
+examples/** linguist-generated=false
+examples/** linguist-detectable=true
+
+# The root landing page is a large static marketing page. Keep it out of the
+# language statistics so the bar reflects the actual example code stack.
+/index.html linguist-detectable=false
